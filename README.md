@@ -15,3 +15,17 @@ O sistema tem como objetivo facilitar o gerenciamento de pedidos, clientes, card
 - 🔑 **Autenticação de usuários**: diferentes permissões para administradores, atendentes e entregadores.  
 
 ---
+
+## Como usar
+
+Para utilizar o sistema inicialmente clone o repositorio principal
+
+' git clone https://github.com/LazimR/mamamia.git 
+  cd mamamia
+  git clone https://github.com/LazimR/mamamia-front.git
+  git clone https://github.com/LazimR/mamamia-back.git
+'
+
+---
+
+Futuramente terá implementações com o docker
